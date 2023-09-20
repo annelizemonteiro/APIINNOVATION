@@ -39,10 +39,6 @@ Sprint | Previsão | Status| Histórico|
 # Micro Certificações
 Futuramente
 
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-<img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/2.png?raw=true"/>
 
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
