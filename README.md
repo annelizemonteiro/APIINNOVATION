@@ -10,7 +10,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Micro Certificações](#micro-certificações)
+* [Status do Projeto](#Status-do-Projeto)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
@@ -36,12 +36,13 @@ Sprint | Previsão | Status| Histórico|
 
 > Possíveis status: a fazer, em progresso e concluido
 
-# Micro Certificações
-Futuramente
+# 🚦Status do Projeto
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/annelizemonteiro/APIINNOVATION/main/Sprint%201/imagem/Equipe%20INNOV8TION.png" width="100%"/>
@@ -49,6 +50,12 @@ Futuramente
 
 # Objetivo do Projeto
 >Descrever aqui os objetivos desse projeto
+>
+>A equipe INOV8TION ira realizar um planejamento estratégico para uma doceria, que deseja diminuir seus gastos e impulssionar suas vendas, trabalhando de maneira eficaz e com mais eficiência visando as necessidades dos clientes que esse nicho de mercado trás
+
+* Análise Swot da empresa;
+* Melhorias nos processos de entrega;
+* Rastreabilidade de regios para espanção das vendas.
 
 # Funcionalidades e Demonstrações das Sprints
 
