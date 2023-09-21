@@ -174,6 +174,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner|DANIEL MARTINS| [![Linkedin Badge](https://www.linkedin.com/in/daniel-martins-99349871/)]() [![GitHub Badge](https://github.com/DanielMPJR)]()|
+|Scrum Master|ANNELIZE MONTEIRO| [![Linkedin Badge](https://www.linkedin.com/in/annelize-monteiro-00011060/)]() [![GitHub Badge](https://github.com/annelizemonteiro)]()|
+|Team Member|ANDERSON CALDERAN| [![Linkedin Badge](https://www.linkedin.com/in/anderson-calderan-domingues-0a10a8189/)]() [![GitHub Badge](https://github.com/AndersonCalderan)]()|
+|Team Member|LUCAS PODDIS| [![Linkedin Badge]()]() [![GitHub Badge](https://github.com/lucaspoddisgripp)]()|
+|Team Member|MATEUS GONÇALVES| [![Linkedin Badge]()]() [![GitHub Badge](https://github.com/Matebr23)]()|
+|Team Member|MAURICIO JOAQUIM| [![Linkedin Badge](https://www.linkedin.com/in/mauricio-da-silva-joaquim-9a6a0565/)]() [![GitHub Badge](https://github.com/Mauricio-Joaquim)]()|
