@@ -72,7 +72,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 3
@@ -80,7 +80,7 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Sprint 4
@@ -88,15 +88,15 @@ Sprint | Previsão | Status| Histórico|
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
-## Apresentação final (se necessario)
+## Apresentação final
 Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 ## Tecnologias Utilizadas
