@@ -58,17 +58,18 @@ A equipe INOV8TION ira realizar um planejamento estratégico para uma doceria, q
 
 # Funcionalidades e Demonstrações das Sprints
 
-## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+## Sprint 1 - Concepção
+>A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Análise Swot / Proposta de redução de custos / Proposta para impulsionar as vendas 
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
+>[Vídeo Sprint 1](https://www.youtube.com/watch?v=DHCp3u1rCM8)
+
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+</p>
 
 <p align="center">
  <img src="" width="100%"/>
