@@ -61,7 +61,7 @@ A equipe INOV8TION ira realizar um planejamento estratégico para uma doceria, q
 ## Sprint 1 - Concepção
 A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Análise Swot / Proposta de redução de custos / Proposta para impulsionar as vendas 
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/140a187a-1d49-4833-ae92-24ed645a3c41)
+![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/trello%20sprint%201.png)
 
 
 >[Vídeo Sprint 1](https://www.youtube.com/watch?v=DHCp3u1rCM8)
