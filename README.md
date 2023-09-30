@@ -114,20 +114,27 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
+ * [x] Análise Swot
+ * [x] Análise redução de custos
+ * [x] Análise nelhoria de vendas
+ * [x] Elaboração da apresentação
+ * [x] Revisão do projeto
+ * [x] Gravação do video
+ * [x] Entrega da Sprint
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+
 
 ## Hard Skill (saber tecnológico)
 <details>
