@@ -50,11 +50,13 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-A equipe INOV8TION ira realizar um planejamento estratégico para uma doceria, que deseja diminuir seus gastos e impulssionar suas vendas, trabalhando de maneira eficaz e com mais eficiência visando as necessidades dos clientes que esse nicho de mercado trás
+A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doceria Sabor, para a melhoria em cima das demandas de necessidades validada, que deseja diminuir seus gastos e impulssionar suas vendas. 
 
-* Análise Swot da empresa;
-* Melhorias nos processos de entrega;
-* Rastreabilidade de regios para espanção das vendas.
+* Desenvolver uma análise quantitativa das receitas da empresa Doce Sabor;
+* Desenvolver análise SWOT;
+* Formas de redução de custos.
+* Maneiras de impulsionar as vendas.
+
 
 # Funcionalidades e Demonstrações das Sprints
 
