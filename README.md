@@ -79,7 +79,7 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 
 
 ## Apresentação final
-Vídeo com a apresentação final da API do "semestre/ano"
+
 
 ### Tecnológias Específicas/Apoio
 
@@ -89,10 +89,6 @@ Vídeo com a apresentação final da API do "semestre/ano"
 - Scrum
 - PowerPoint
 - Teams
-
- 
-### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
 
 # Cronograma das Sprints
 
