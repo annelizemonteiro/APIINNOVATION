@@ -101,7 +101,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/annelizemonteiro/projects/4)
 
-
 ## Backlog do produto
 
 <p align="center">
@@ -109,8 +108,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
  
 ## Burndown
->Colocar aqui Burndown do projeto
 
+<p align="center">
+ <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/BurnDown%20Sprint%201.png" width="100%"/>
+</p>
 
 ## Sprint 1 - Concepção
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
