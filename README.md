@@ -81,9 +81,14 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 ## Apresentação final
 Vídeo com a apresentação final da API do "semestre/ano"
 
-## Tecnologias Utilizadas
-### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+## Tecnológias Específicas/Apoio
+
+* Github
+* Trello
+* Canva
+* Scrum
+* PowerPoint
+* Teams
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
@@ -100,16 +105,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Backlog%201.png
-" width="100%"/>
+ <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Backlog%201.png" width="100%"/>
 </p>
  
 ## Burndown
 >Colocar aqui Burndown do projeto
-
 
 
 ## Sprint 1 - Concepção
