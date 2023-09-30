@@ -102,16 +102,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Backlog do produto
 >Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
 
 ## Burndown
 >Colocar aqui Burndown do projeto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
+
 
 ## Sprint 1 - Concepção
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
