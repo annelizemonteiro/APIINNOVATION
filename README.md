@@ -81,14 +81,14 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 ## Apresentação final
 Vídeo com a apresentação final da API do "semestre/ano"
 
-## Tecnológias Específicas/Apoio
+### Tecnológias Específicas/Apoio
 
-* Github
-* Trello
-* Canva
-* Scrum
-* PowerPoint
-* Teams
+- Github
+- Trello
+- Canva
+- Scrum
+- PowerPoint
+- Teams
 
 ### Tecnológias Específicas/Apoio
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
