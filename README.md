@@ -90,9 +90,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 - PowerPoint
 - Teams
 
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
+ 
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
 
