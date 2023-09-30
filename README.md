@@ -73,7 +73,7 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 >Descrever aqui o que foi entregue na sprint
 >Colocar o vídeo da apresentação
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+ <img src="" width="100%"/>
 </p>
 
 <p align="center">
