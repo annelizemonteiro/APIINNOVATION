@@ -70,39 +70,16 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Apresentação final
 Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="" width="100%"/>
-</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
