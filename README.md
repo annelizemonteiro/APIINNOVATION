@@ -106,7 +106,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/BurnDown%20Sprint%201.png" width="100%"/>
+ <img src="https://raw.githubusercontent.com/annelizemonteiro/APIINNOVATION/main/Sprint%201/imagem/BurnDown%20Sprint%201.png" width="100%"/>
 </p>
 
 ## Sprint 1 - Concepção
