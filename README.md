@@ -104,7 +104,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ### Backlog do produto
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/annelizemonteiro/APIINNOVATION/main/Sprint%201/imagem/Backlog%20Sprint%201.png" width="100%"/>
+ <img src="![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/ba48cbaf-2248-4c70-8a32-702c93eff173)
+" width="100%"/>
 </p>
  
 ## Burndown
