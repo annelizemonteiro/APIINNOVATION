@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API)
+# 🎓 Aprendizado por Projeto Integrado (API)
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/annelizemonteiro/APIINNOVATION/main/Sprint%201/imagem/Logo.png" width="100%"/>
