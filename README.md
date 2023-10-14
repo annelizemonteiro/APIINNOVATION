@@ -3,7 +3,7 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/annelizemonteiro/APIINNOVATION/main/Sprint%201/imagem/Logo.png" width="100%"/>
 </p>
- 
+
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -110,9 +110,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  
 ## Burndown
 
-<p align="center">
- <img src="![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%202/imagem/download.png?raw=true)" width="100%"/>
-</p>
+![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/4b985412-cf4f-4ad6-a2bb-831435154eb5)
+
 
 ## Sprint 1 - Concepção
 
