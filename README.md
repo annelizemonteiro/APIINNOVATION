@@ -71,7 +71,7 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 
 ## Sprint 2
 
-[![SPRINT 1](https://img.youtube.com/vi/qSDDIk22M/0.jpg)](https://youtu.be/qSDDIk22M)
+[![SPRINT 2](https://img.youtube.com/vi/qSDDIk22M/0.jpg)](https://youtu.be/qSDDIk22M)
 
 ## Sprint 3
 
