@@ -111,8 +111,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 
 <p align="center">
- <img src="![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/8e49ee51-5886-4fca-897f-fd9eb7e842de)
-" width="100%"/>
+ <img src="![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%202/imagem/download.png?raw=true)" width="100%"/>
 </p>
 
 ## Sprint 1 - Concepção
