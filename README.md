@@ -111,7 +111,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 
 <p align="center">
- <img src="![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/5ff4fdba-3421-46bb-bdfa-6340fce2fefb)
+ <img src="![image](![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/760abd4d-6934-4a10-a66e-ae96690ee5a7)
+)
 " width="100%"/>
 </p>
 
