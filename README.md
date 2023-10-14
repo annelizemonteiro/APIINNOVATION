@@ -115,23 +115,23 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 1 - Concepção
 
- * [x] Análise Swot
- * [x] Análise redução de custos
- * [x] Análise nelhoria de vendas
- * [x] Elaboração da apresentação
- * [x] Revisão do projeto
- * [x] Gravação do video
- * [x] Entrega da Sprint
+ * [x] Análise Swot-✅
+ * [x] Análise redução de custos-✅
+ * [x] Análise nelhoria de vendas-✅
+ * [x] Elaboração da apresentação-✅
+ * [x] Revisão do projeto-✅
+ * [x] Gravação do video-✅
+ * [x] Entrega da Sprint-✅
 
 ## Sprint 2 - Desenvolvimento do Projeto
 
- * [x] Definição previsão de demanda
- * [x] Cálculo previsão
- * [x] Gráficos previsão
- * [x] Elaboração da apresentação
- * [x] Revisão do projeto
- * [x] Gravação do video
- * [x] Entrega da Sprint
+ * [x] Definição previsão de demanda-✅
+ * [x] Cálculo previsão-✅
+ * [x] Gráficos previsão-✅
+ * [x] Elaboração da apresentação-✅
+ * [x] Revisão do projeto-✅
+ * [x] Gravação do video-✅
+ * [x] Entrega da Sprint-✅
       
 ## Sprint 3 - Implementação
 
