@@ -111,7 +111,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/4b985412-cf4f-4ad6-a2bb-831435154eb5)
 
 
-## Sprint 1 - Concepção
+## Sprint 1
 
  * [x] Análise Swot-✅
  * [x] Análise redução de custos-✅
@@ -121,7 +121,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  * [x] Gravação do video-✅
  * [x] Entrega da Sprint-✅
 
-## Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2
 
  * [x] Definição previsão de demanda-✅
  * [x] Cálculo previsão-✅
@@ -131,10 +131,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  * [x] Gravação do video-✅
  * [x] Entrega da Sprint-✅
       
-## Sprint 3 - Implementação
+## Sprint 3
 
       
-## Sprint 4 - Operacionalização
+## Sprint 4
 
 
 
