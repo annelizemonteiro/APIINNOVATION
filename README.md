@@ -103,7 +103,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ### Backlog do produto
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/assets/123559143/c357ac90-8d99-4305-b152-39b92a42e69e)
+![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/imagem/backlog%20gif.gif)
 
  
 ## Burndown
