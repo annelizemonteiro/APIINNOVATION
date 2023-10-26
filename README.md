@@ -133,6 +133,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
       
 ## Sprint 3
 
+ * [x] Brainstorm (Curva ABC)-✅
+ * [x] Distribuição das tarefas-✅
+ * [x] Implementação (Curva ABC)
+ * [x] Esboço apresentação
+ * [ ] Revisão do projeto
+ * [ ] Elaboração Apresentação
+ * [ ] Gravação do video
+ * [ ] Entrega da Sprint
       
 ## Sprint 4
 
