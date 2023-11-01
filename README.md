@@ -135,10 +135,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
  * [x] Brainstorm (Curva ABC)-✅
  * [x] Distribuição das tarefas-✅
- * [x] Implementação (Curva ABC)
- * [x] Esboço apresentação
- * [ ] Revisão do projeto
- * [ ] Elaboração Apresentação
+ * [x] Implementação (Curva ABC)-✅
+ * [x] Esboço apresentação-✅
+ * [X] Revisão do projeto-✅
+ * [X] Elaboração Apresentação
  * [ ] Gravação do video
  * [ ] Entrega da Sprint
       
