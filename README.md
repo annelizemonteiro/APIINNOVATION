@@ -30,7 +30,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 29/08/2023 | concluido| [Ver Relatório]() | 
 |01 | 24/09/2023 | concluido| [Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/raw/main/Sprint%201/documento/Relatorio%20Sprint%201.docx) | 
 |02|  15/10/2023| concluido|[Ver Relatório]() | 
-|03| 05/11/2023 | a fazer|[Ver Relatório]() | 
+|03| 05/11/2023 | em andamento|[Ver Relatório]() | 
 |04| 26/11/2023 |a fazer |[Ver Relatório]() |
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
 
