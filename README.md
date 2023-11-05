@@ -78,6 +78,8 @@ otimizando o planejamento e a eficiência operacional.
 
 ## Sprint 3
 
+[![SPRINT 3](https://img.youtube.com/vi/uFAbPZ_nW6Y/0.jpg)](https://youtu.be/uFAbPZ_nW6Y)
+
 
 ## Sprint 4
 
