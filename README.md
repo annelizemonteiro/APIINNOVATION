@@ -67,8 +67,6 @@ A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Anál
 [![SPRINT 1](https://img.youtube.com/vi/DHCp3u1rCM8/0.jpg)](https://youtu.be/DHCp3u1rCM8)
 
 
-
-
 ## Sprint 2
 Nesta sprint a A Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de previsão de demanda, esta proposta visa fornecer uma estratégia para prever a demanda de produtos ou serviços, 
 otimizando o planejamento e a eficiência operacional.
@@ -142,9 +140,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  * [x] Implementação (Curva ABC)-✅
  * [x] Esboço apresentação-✅
  * [X] Revisão do projeto-✅
- * [X] Elaboração Apresentação
- * [ ] Gravação do video
- * [ ] Entrega da Sprint
+ * [X] Elaboração Apresentação-✅
+ * [X] Gravação do video-✅
+ * [X] Entrega da Sprint-✅
       
 ## Sprint 4
 
