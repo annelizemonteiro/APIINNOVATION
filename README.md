@@ -27,8 +27,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 29/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 24/09/2023 | concluido| [Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/documento/Relatorio%20Sprint%201.pdf) | 
+|Kick Off | 29/08/2023 | concluido| [Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/KickOff/Relatorio%20KickOff.pdf) | 
+|01 | 24/09/2023 | concluido| [Ver Relatório]() | 
 |02|  15/10/2023| concluido|[Ver Relatório]() | 
 |03| 05/11/2023 | concluido|[Ver Relatório]() | 
 |04| 26/11/2023 |em progresso|[Ver Relatório]() |
