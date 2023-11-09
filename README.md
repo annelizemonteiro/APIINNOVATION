@@ -1,7 +1,7 @@
 # 🎓 Aprendizado por Projeto Integrado (API)
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/annelizemonteiro/APIINNOVATION/main/Sprint%201/imagem/Logo.png" width="100%"/>
+ <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo.png" width="100%"/>
 </p>
 
 
