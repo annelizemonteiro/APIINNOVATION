@@ -90,7 +90,6 @@ otimizando o estoque e gerenciamento dos itens.
 ### Tecnológias Específicas/Apoio
 
 - Github
-- Trello
 - Canva
 - Scrum
 - PowerPoint
