@@ -80,7 +80,7 @@ otimizando o estoque e gerenciamento dos itens.
 ### Tecnológias Específicas/Apoio
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Tecnoligias%20utilidas.png" width="100%"/>
+ <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Tecnoligias%20utilida2.png" width="100%"/>
 </p>
 
 # ⏳ Cronograma das Sprints
