@@ -4,7 +4,6 @@
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo.png" width="100%"/>
 </p>
 
-
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -40,9 +39,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-
 # Equipe
-
 
 <p align="center">
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Apresenta%C3%A7%C3%A3o%20equipe.png" width="100%"/>
@@ -57,15 +54,12 @@ A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doce
 * Formas de redução de custos.
 * Maneiras de impulsionar as vendas.
 
-
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1 - Concepção
 A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Análise Swot / Proposta de redução de custos / Proposta para impulsionar as vendas 
 
-
 [![SPRINT 1](https://img.youtube.com/vi/DHCp3u1rCM8/0.jpg)](https://youtu.be/DHCp3u1rCM8)
-
 
 ## Sprint 2
 Nesta sprint a A Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de previsão de demanda, esta proposta visa fornecer uma estratégia para prever a demanda de produtos ou serviços, 
@@ -73,19 +67,15 @@ otimizando o planejamento e a eficiência operacional.
 
 [![SPRINT 2](https://img.youtube.com/vi/f-qSDDIk22M/0.jpg)](https://youtu.be/f-qSDDIk22M)
 
-
 ## Sprint 3
 Nesta sprint a A Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de gestão de estoque utilizando o método da curva ABC.
 otimizando o estoque e gerenciamento dos itens.
 
 [![SPRINT 3](https://img.youtube.com/vi/uFAbPZ_nW6Y/0.jpg)](https://youtu.be/uFAbPZ_nW6Y)
 
-
 ## Sprint 4
 
-
 ## Apresentação final
-
 
 ### Tecnológias Específicas/Apoio
 
@@ -103,12 +93,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ### Backlog do produto
 
 ![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/imagem/Apresenta%C3%A7%C3%A3o%20geral%20development.gif)
-
  
 ## Burndown
 
 ![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/imagem/Apresenta%C3%A7%C3%A3o%20geral%20Burndown.png)
-
 
 ## Sprint 1
 
@@ -147,7 +135,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Competências desenvolvidas
 
-
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
@@ -176,7 +163,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Proatividade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 </details>
-
 
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
