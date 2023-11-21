@@ -93,12 +93,6 @@ otimizando o estoque e gerenciamento dos itens.
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/INNOV8TION%20Tecnologias%20de%20apoio.png" width="100%"/>
 </p>
 
-- Github
-- Canva
-- Scrum
-- PowerPoint
-- Teams
-
 # ⏳ Cronograma das Sprints
 
 ## Cronograma
