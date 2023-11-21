@@ -45,7 +45,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 <p align="center">
- <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/time%20atualizado.png" width="100%"/>
+ <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Apresenta%C3%A7%C3%A3o%20equipe.png" width="100%"/>
 </p>
 
 # Objetivo do Projeto
