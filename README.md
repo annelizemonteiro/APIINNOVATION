@@ -51,8 +51,9 @@ A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doce
 
 * Desenvolver uma análise quantitativa das receitas da empresa Doce Sabor;
 * Desenvolver análise SWOT;
-* Formas de redução de custos.
-* Maneiras de impulsionar as vendas.
+* Proposta de previsão de demanda.
+* Gestão de estoque utilizando curva ABC.
+* Metodologia Canvas
 
 # Funcionalidades e Demonstrações das Sprints
 
