@@ -78,7 +78,7 @@ otimizando o estoque e gerenciamento dos itens.
 
 ## Apresentação final
 
-### Tecnológias Específicas/Apoio
+## Tecnológias Específicas/Apoio
 
 <p align="center">
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Tecnoligias%20utilida2.png" width="100%"/>
