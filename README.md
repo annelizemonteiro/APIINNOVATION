@@ -69,12 +69,13 @@ otimizando o planejamento e a eficiência operacional.
 [![SPRINT 2](https://img.youtube.com/vi/f-qSDDIk22M/0.jpg)](https://youtu.be/f-qSDDIk22M)
 
 ## Sprint 3
-Nesta sprint a A Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de gestão de estoque utilizando o método da curva ABC.
+Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de gestão de estoque utilizando o método da curva ABC.
 otimizando o estoque e gerenciamento dos itens.
 
 [![SPRINT 3](https://img.youtube.com/vi/uFAbPZ_nW6Y/0.jpg)](https://youtu.be/uFAbPZ_nW6Y)
 
 ## Sprint 4
+Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de novo negocio utilizando a metodologia Canvas. 
 
 ## Apresentação final
 
