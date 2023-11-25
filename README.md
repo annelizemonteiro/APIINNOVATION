@@ -77,6 +77,8 @@ otimizando o estoque e gerenciamento dos itens.
 ## Sprint 4
 Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de novo negocio utilizando a metodologia Canvas. 
 
+[![SPRINT 4](https://img.youtube.com/vi/qEuzFS7AI40/0.jpg)](https://youtu.be/qEuzFS7AI40)
+
 ## Apresentação final
 
 ## Tecnológias Específicas/Apoio
