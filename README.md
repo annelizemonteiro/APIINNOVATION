@@ -134,13 +134,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 4
 
  * [x] Brainstorm Sprint 4-✅
- * [x] Proposta p/ novo negócio-
- * [x] Aplicação Canvas-
- * [ ] Revisão do projeto-
- * [ ] Elaboração Apresentação-
+ * [x] Proposta p/ novo negócio-✅
+ * [x] Aplicação Canvas-✅
+ * [X] Revisão do projeto-
+ * [X] Elaboração Apresentação-
  * [ ] Gravação do video-
  * [ ] Entrega da Sprint-
- * [ ] Finalização Relatórios-
+ * [X] Finalização Relatórios-
 
 # Competências desenvolvidas
 
