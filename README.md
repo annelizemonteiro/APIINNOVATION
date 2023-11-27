@@ -96,7 +96,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ### Backlog do produto
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/imagem/Apresenta%C3%A7%C3%A3o%20geral%20development.gif)
+![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/Apresenta%C3%A7%C3%A3o%20geral%20API.gif)
  
 ## Burndown
 
