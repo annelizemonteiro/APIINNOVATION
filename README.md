@@ -100,7 +100,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  
 ## Burndown
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/imagem/Apresenta%C3%A7%C3%A3o%20geral%20Burndown.png)
+![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/Apresenta%C3%A7%C3%A3o%20geral%20Burndown.gif)
 
 ## Sprint 1
 
