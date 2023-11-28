@@ -30,8 +30,8 @@ Sprint | Previsão | Status| Histórico|
 |01 | 24/09/2023 | concluido| [Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/documento/Resumo%20da%20sprint%201.pdf) | 
 |02|  15/10/2023| concluido|[Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%202/documento/Resumo%20sprint%202.pdf) | 
 |03| 05/11/2023 | concluido|[Ver Relatório](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%203/documento/Resumo%20sprint%203.pdf) | 
-|04| 26/11/2023 |em progresso|[Ver Relatório]() |
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
+|04| 26/11/2023 |concluido|[Ver Relatório]() |
+|Feira de Soluções|12/12/2023 |em progresso |[Ver Relatório]() | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
