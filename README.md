@@ -47,7 +47,7 @@ Sprint | Previsão | Status| Histórico|
 
 # 🎯Objetivo do Projeto
 
-A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doceria Sabor, para a melhoria em cima das demandas de necessidades validada, que deseja diminuir seus gastos e impulssionar suas vendas. 
+A equipe INNOV8TION ira realizar um planejamento estratégico para a empresa Doceria Sabor, para a melhoria em cima das demandas de necessidades validada, que deseja diminuir seus gastos e impulssionar suas vendas. 
 
 * Desenvolver uma análise quantitativa das receitas da empresa Doce Sabor;
 * Desenvolver análise SWOT;
