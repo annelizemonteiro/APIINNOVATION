@@ -1,4 +1,4 @@
-# 🎓 Aprendizado por Projeto Integrado (API)
+# 🎓Aprendizado por Projeto Integrado (API)
 
 <p align="center">
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Blue%20and%20White%20Circuit%20Technology%20Logo.png" width="100%"/>
@@ -6,7 +6,7 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+# 🗂️Índice
 
 * [Projeto (API)](#projeto-api)
 * [Status do Projeto](#Status-do-Projeto)
@@ -19,7 +19,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
+# 📝Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
@@ -39,13 +39,13 @@ Sprint | Previsão | Status| Histórico|
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-# Equipe
+# 👩‍💻Equipe
 
 <p align="center">
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Apresenta%C3%A7%C3%A3o%20Equipe.png" width="100%"/>
 </p>
 
-# Objetivo do Projeto
+# 🎯Objetivo do Projeto
 
 A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doceria Sabor, para a melhoria em cima das demandas de necessidades validada, que deseja diminuir seus gastos e impulssionar suas vendas. 
 
@@ -55,7 +55,7 @@ A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doce
 * Gestão de estoque utilizando curva ABC.
 * Metodologia Canvas
 
-# Funcionalidades e Demonstrações das Sprints
+# 🛠️Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1 - Concepção
 A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Análise Swot / Proposta de redução de custos / Proposta para impulsionar as vendas 
@@ -81,24 +81,24 @@ Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de n
 
 ## Apresentação final
 
-## Tecnológias Específicas/Apoio
+# 📇Tecnológias Específicas/Apoio
 
 <p align="center">
  <img src="https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%201/imagem/Tecnoligias%20utilida2.png" width="100%"/>
 </p>
 
-# ⏳ Cronograma das Sprints
+# ⏳Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 ## Cronograma das Sprints[(clique aqui)](https://github.com/users/annelizemonteiro/projects/5)
 
-### Backlog do produto
+# 📋Backlog do produto
 
 ![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/Apresenta%C3%A7%C3%A3o%20geral%20API.gif)
  
-## Burndown
+# 📋Burndown
 
 ![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/imagem/Apresenta%C3%A7%C3%A3o%20geral%20Burndown%20Finalizado%20.gif)
 
@@ -144,7 +144,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  * [X] Entrega da Sprint-✅
  * [X] Finalização Relatórios-
 
-# Competências desenvolvidas
+# 📝Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -175,7 +175,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Proatividade | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 </details>
 
-# Autores
+# 💬Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner|DANIEL MARTINS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martins-99349871/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielMPJR)|
