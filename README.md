@@ -57,7 +57,7 @@ A equipe INOV8TION ira realizar um planejamento estratégico para a empresa Doce
 
 # 🛠️Funcionalidades e Demonstrações das Sprints
 
-## Sprint 1 - Concepção
+## Sprint 1 
 A Innov8tion entregou ao nosso cliente Doce Sabor as demandas solicitadas: Análise Swot / Proposta de redução de custos / Proposta para impulsionar as vendas 
 
 [![SPRINT 1](https://img.youtube.com/vi/DHCp3u1rCM8/0.jpg)](https://youtu.be/DHCp3u1rCM8)
