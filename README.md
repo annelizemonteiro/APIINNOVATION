@@ -81,6 +81,8 @@ Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de n
 
 ## Apresentação final
 
+Em progresso
+
 # 📇Tecnológias Específicas/Apoio
 
 <p align="center">
