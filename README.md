@@ -33,8 +33,6 @@ Sprint | Previsão | Status| Histórico|
 |04| 26/11/2023 |concluido|[Ver Relatório]() |
 |Feira de Soluções|12/12/2023 |em progresso |[Ver Relatório]() | 
 
-> Possíveis status: a fazer, em progresso e concluido
-
 # 🚦Status do Projeto
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
