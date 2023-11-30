@@ -79,7 +79,7 @@ Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de n
 
 ## Apresentação final
 
-![image]()
+![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o%20FInal%20(API-1SEM-INNOV8TION)%20Feira%20de%20solu%C3%A7oes.png)
 [(Em processo)](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20FInal%20(API-1SEM-INNOV8TION)%20Feira%20de%20solu%C3%A7oes.pdf)
 
 # 📇Tecnológias Específicas/Apoio
