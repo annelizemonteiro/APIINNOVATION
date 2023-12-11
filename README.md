@@ -82,6 +82,7 @@ Conclusão do projeto:Esse projeto aborda, por meio da coleta e análise de dado
 uma empresa e as ferramentas necessárias para conduzir o andamento da empresa
 
 [![Apresentação Final](https://img.youtube.com/vi/OSOzHEnqAQc/0.jpg)](https://youtu.be/OSOzHEnqAQc)
+
 [(Clique aqui.)](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/Relatorio/Apresentacao%20Feira-1-1.pdf)
 
 # 📇Tecnológias Específicas/Apoio
