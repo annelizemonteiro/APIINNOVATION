@@ -78,9 +78,10 @@ Nesta sprint a Innov8tion entregou ao nosso cliente Doce Sabor uma proposta de n
 [![SPRINT 4](https://img.youtube.com/vi/qEuzFS7AI40/0.jpg)](https://youtu.be/qEuzFS7AI40)
 
 ## Apresentação final
+Conclusão do projeto:Esse projeto aborda, por meio da coleta e análise de dados, os processos internos de
+uma empresa e as ferramentas necessárias para conduzir o andamento da empresa
 
-![image](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/apresenta%C3%A7%C3%A3o%20FInal%20(API-1SEM-INNOV8TION)%20Feira%20de%20solu%C3%A7oes.png)
-
+[![Apresentação Final](https://img.youtube.com/vi/OSOzHEnqAQc/0.jpg)](https://youtu.be/OSOzHEnqAQc)
 [(Clique aqui.)](https://github.com/annelizemonteiro/APIINNOVATION/blob/main/Sprint%204/Feira-de-Solu%C3%A7%C3%B5es/Relatorio/Apresentacao%20Feira-1-1.pdf)
 
 # 📇Tecnológias Específicas/Apoio
